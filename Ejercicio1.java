@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 
 //HOLAAAA
+//ADIOSSS
 
 public class Ejercicio1 {
 	public static void main (String args[]) {
